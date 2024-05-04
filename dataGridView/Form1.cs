@@ -34,6 +34,7 @@ namespace dataGridView
                 Name = "Column4"
             });
 
+
             DataGridViewTextBoxCell dataGridViewTextBoxCellHobby = new DataGridViewTextBoxCell();
             dataGridView.Columns.Insert(2, new DataGridViewColumn(dataGridViewTextBoxCellHobby)
             {
